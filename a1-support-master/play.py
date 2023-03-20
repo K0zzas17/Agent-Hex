@@ -16,9 +16,6 @@ When prompted for an action, press W to move the robot forward, S to move the ro
 left (counterclockwise) and D to turn the robot right (clockwise). Use Q to exit the simulation, and R to reset the
 environment to the initial configuration.
 
-COMP3702 2022 Assignment 1 Support Code
-
-Last updated by njc 30/07/22w
 """
 
 
