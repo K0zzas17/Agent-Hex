@@ -5,9 +5,6 @@ state.py
 
 This file contains a class representing a HexBot environment state. You should make use of this class in your solver.
 
-COMP3702 2022 Assignment 1 Support Code
-
-Last updated by njc 28/07/22
 """
 
 
