@@ -4,9 +4,6 @@ constants.py
 
 This file contains constants used by the Environment and State classes.
 
-COMP3702 2022 Assignment 1 Support Code
-
-Last updated by njc 29/07/22
 """
 
 # === Robot Orientations ===============================================================================================
