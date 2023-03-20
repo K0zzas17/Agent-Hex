@@ -2,6 +2,10 @@
 
 This is the support code for Assignment 1 (HexBot).
 
+Of the files written by myself were:
+- Solution.py
+- State.py
+
 The following files are provided:
 
 **environment.py**
