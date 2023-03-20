@@ -10,9 +10,6 @@ environment.py
 This file contains a class representing a HexBot environment and supporting helper methods. You should make use of this
 class in your solver.
 
-COMP3702 2022 Assignment 1 Support Code
-
-Last updated by njc 30/07/22
 """
 
 
