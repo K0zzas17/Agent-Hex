@@ -19,9 +19,6 @@ This file is a template you should use to implement your solution.
 
 You should implement 
 
-COMP3702 2022 Assignment 1 Support Code
-
-Last updated by njc 01/08/22
 """
 
 
